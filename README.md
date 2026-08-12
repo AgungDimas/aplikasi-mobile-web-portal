@@ -66,7 +66,7 @@ npm --version
    npm run dev
    ```
 5. Access the Web App:
-* Open your browser and navigate to: http://localhost:3001 
+* Open your browser and navigate to: http://localhost:3000
 
 ## 📡 API Reference
 1. Chat / AI Assistant Endpoint:
