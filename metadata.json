@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Mobile & Web Portal",
+  "description": "Aplikasi web responsif dengan simulator layar HP, toko digital, PPOB, kasir QRIS, dan Asisten AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
