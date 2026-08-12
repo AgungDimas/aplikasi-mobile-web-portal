@@ -32,11 +32,11 @@ export const HeaderNav: React.FC<HeaderNavProps> = ({
             </div>
             <div>
               <h1 className="font-bold text-lg tracking-tight leading-none bg-gradient-to-r from-white via-slate-200 to-indigo-200 bg-clip-text text-transparent">
-                AppStudio Portal
+                AppStudio Product Business
               </h1>
               <p className="text-xs text-slate-400 mt-0.5 flex items-center gap-1.5">
                 <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-                Mobile App & Web Platform
+                Mobile App & Web Platform Digitalization for Business
               </p>
             </div>
           </div>

@@ -97,10 +97,10 @@ export const WebView: React.FC<WebViewProps> = ({
         <div className="bg-slate-900 border border-slate-800 p-4 rounded-2xl shadow-lg space-y-3">
           <div className="flex items-center gap-3">
             <div className="w-12 h-12 rounded-xl bg-gradient-to-tr from-indigo-500 to-emerald-400 text-slate-950 font-extrabold flex items-center justify-center text-base shadow-md">
-              AP
+              CEO
             </div>
             <div>
-              <h3 className="font-bold text-white text-sm">Ahmad Pengusaha</h3>
+              <h3 className="font-bold text-white text-sm">CEO Domos</h3>
               <p className="text-xs text-slate-400">Pro Merchant Partner</p>
             </div>
           </div>
