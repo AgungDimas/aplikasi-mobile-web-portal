@@ -13,7 +13,7 @@ export const SettingsTab: React.FC<SettingsTabProps> = ({
   setPhoneSkin,
   onOpenAccessModal,
 }) => {
-  const [userName, setUserName] = useState('Ahmad Pengusaha');
+  const [userName, setUserName] = useState('CEO Domos');
   const [pin, setPin] = useState('123456');
   const [isSaved, setIsSaved] = useState(false);
 

@@ -47,7 +47,7 @@ export const HomeTab: React.FC<HomeTabProps> = ({
             <div>
               <p className="text-[11px] text-slate-400">Selamat datang kembali 👋</p>
               <h2 className="text-sm font-bold text-white flex items-center gap-1">
-                Ahmad Pengusaha <span className="bg-emerald-500/20 text-emerald-300 text-[10px] px-1.5 py-0.2 rounded border border-emerald-500/30">Pro Merchant</span>
+                CEO Domos <span className="bg-emerald-500/20 text-emerald-300 text-[10px] px-1.5 py-0.2 rounded border border-emerald-500/30">Pro Merchant</span>
               </h2>
             </div>
           </div>
